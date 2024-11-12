@@ -1180,10 +1180,12 @@ footer .footerinner {
 
     #tenth .tenthinner .headings h1 {
         font-weight: 700;
+       
     }
 
     #tenth .tenthinner .headings p {
         font-weight: 600;
+        padding-top: 1%;
     }
 
     #tenth .tenthinner .forms {
@@ -1198,10 +1200,12 @@ footer .footerinner {
         background-color: gainsboro;
         padding-left: 2%;
         width: 57%;
-        height: 10vh;
+        height: 9vh;
+       text-align: center;
         
 
     }
+
 
 
     #tenth .tenthinner .forms button {
